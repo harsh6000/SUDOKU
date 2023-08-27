@@ -30,17 +30,4 @@ In order to run the Script, the require **Python & PyGame** and you can install 
 pip install -r requirements.txt
 ```
 
-## Execution:
--	
-Zip Download the Repository and Extract it's contents.
--	Now run the [SudokuGUI] file directly in your Terminal using
-```
-python SudokuGUI.py
-```
-**OR**
-```
-python3 SudokuGUI.py
-```
 
-<p align='center'><b>Made by Harsh Lohia</b></p>
-# Sudoku-Solver
